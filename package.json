@@ -1,5 +1,6 @@
 {
   "name": "dcsa",
+  "homepage": "https://roman-kulyk-t.github.io/dcsa/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
