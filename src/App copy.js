@@ -4,7 +4,6 @@ import Title from './components/Title';
 import SubTitle from './components/SubTitle';
 import Description from './components/Description';
 
-
 function App() {
     return (
         <div className="App">
